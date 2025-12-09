@@ -125,7 +125,7 @@ API REST simples, ideal para estudos de rotas, métodos HTTP, entidades, serviç
 ## 🧭 Objetivos 2026
 - Especializar em **Java + Spring Boot**  
 - Criar sistemas completos com **Clean Architecture**  
-- Produzir projetos mais robustos em Flutter  
+- Produzir projetos mais robustos em React  
 - Entrar como **Desenvolvedor Back-End Java**  
 
 ---
