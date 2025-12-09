@@ -1,33 +1,33 @@
 <!-- Banner principal -->
 <h1 align="center">👋 Olá, eu sou o Eduardo Pech</h1>
-<h3 align="center">Desenvolvedor Backend Java | Node.js | Flutter | APIs REST | SQL</h3>
+<h3 align="center">Desenvolvedor Backend | Java • Node.js • Flutter • APIs REST • SQL</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardoapech&label=Visualizações+no+Perfil&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=eduardoapech&label=Visualizações+no+Perfil&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado em **Back-End**, apaixonado por criar sistemas robustos, eficientes e bem estruturados.  
-Atualmente estudo e trabalho com **Java + Spring**, Node.js, Flutter e bancos de dados relacionais.
+Sou um desenvolvedor focado em **Back-End**, apaixonado por criar sistemas robustos, organizados e performáticos.  
+Atualmente estudo e trabalho com **Java + Spring Boot**, Node.js, Flutter e bancos de dados relacionais.
 
-Tenho experiência com **suporte técnico**, o que me ajuda a transformar problemas reais em soluções simples e eficazes.
+Tenho experiência com **suporte técnico**, o que me ajuda a transformar problemas reais em soluções eficientes e escaláveis.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 🟦 **Back-End**
-- **Java • Spring Boot**
+- **Java + Spring Boot**
 - Node.js • Express  
 - C# • ASP.NET Core  
 - REST APIs • Clean Architecture  
 - Autenticação JWT  
-- ORM: Hibernate, Sequelize, TypeORM  
+- ORMs: Hibernate • Sequelize • TypeORM  
 
 ### 🟩 **Front-End & Mobile**
 - Flutter  
@@ -38,7 +38,7 @@ Tenho experiência com **suporte técnico**, o que me ajuda a transformar proble
 - MySQL • MariaDB • PostgreSQL • SQLite  
 - Firebase Firestore  
 
-### 🛠️ **Ferramentas**
+### 🛠️ **Ferramentas e Utilitários**
 - Git & GitHub  
 - Postman • Insomnia  
 - Swagger  
@@ -47,16 +47,16 @@ Tenho experiência com **suporte técnico**, o que me ajuda a transformar proble
 
 ---
 
-# ⭐ **Projetos em Destaque (Java)**  
-> *Projetos selecionados que demonstram sua evolução como desenvolvedor Java Backend.*
+# ⭐ Projetos em Destaque (Java)
+
+Projetos selecionados que demonstram sua evolução como desenvolvedor Backend.
 
 ---
 
 ### 🔹 **Login Java – Sistema de autenticação**
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-🔗 **Repositório:**  
-https://github.com/eduardoapech/Login-java  
+🔗 **Repositório:** https://github.com/eduardoapech/Login-java  
 
 **Descrição:**  
 Sistema básico de login com validação, encapsulamento e boas práticas de POO.
@@ -66,33 +66,30 @@ Sistema básico de login com validação, encapsulamento e boas práticas de POO
 ### 🔹 **Calculadora Java – Operações matemáticas**
 <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-🔗 **Repositório:**  
-https://github.com/eduardoapech/calculadora-java  
+🔗 **Repositório:** https://github.com/eduardoapech/calculadora-java  
 
 **Descrição:**  
-Calculadora completa com tratamento de erros e modularização.
+Calculadora completa com tratamento de erros, modularização e funções matemáticas.
 
 ---
 
 ### 🔹 **Sistema Java de Cadastro – CRUD completo**
 <img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
-🔗 **Repositório:**  
-https://github.com/eduardoapech/java-backend-cadastro  
+🔗 **Repositório:** https://github.com/eduardoapech/java-backend-cadastro  
 
 **Descrição:**  
-CRUD estruturado seguindo boas práticas de API REST com DTOs, serviços e controllers.
+CRUD seguindo boas práticas de API REST com DTOs, services e controllers.
 
 ---
 
-### 🔹 **App Passagem de Ônibus – Java + Lógica de Negócio**
+### 🔹 **App Passagem de Ônibus – Regras de Negócio**
 <img src="https://img.shields.io/badge/Java-DB4437?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-🔗 **Repositório:**  
-https://github.com/eduardoapech/app-passagem-onibus  
+🔗 **Repositório:** https://github.com/eduardoapech/app-passagem-onibus  
 
 **Descrição:**  
-Simulação de compra de passagens com regras de negócio e cálculos automáticos.
+Simulação de compra de passagens com lógica de negócio e cálculos automáticos.
 
 ---
 
@@ -100,21 +97,20 @@ Simulação de compra de passagens com regras de negócio e cálculos automátic
 <img src="https://img.shields.io/badge/REST_API-1F80C0?style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Java-OpenJDK-blue?style=for-the-badge"/>
 
-🔗 **Repositório:**  
-https://github.com/eduardoapech/ApiRest_CRUD  
+🔗 **Repositório:** https://github.com/eduardoapech/ApiRest_CRUD  
 
 **Descrição:**  
-API REST simples, ideal para estudos de rotas, métodos HTTP e camadas da aplicação.
+API REST simples para estudo de rotas, métodos HTTP e camadas da aplicação.
 
 ---
 
-## 📈 Minhas estatísticas no GitHub
+## 📈 Minhas Estatísticas no GitHub
 
-> **Gráficos corrigidos usando o mirror estável (não cai).**
+> Gráficos usando mirror estável (não cai).
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardoapech&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=eduardoapech&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -129,9 +125,9 @@ API REST simples, ideal para estudos de rotas, métodos HTTP e camadas da aplica
 ---
 
 ## 🧭 Objetivos 2026
-- Aperfeiçoar **Java + Spring Boot**  
+- Aprimorar **Java + Spring Boot**  
 - Criar sistemas completos com **Clean Architecture**  
-- Ampliar domínio de React  
+- Expandir domínio de React  
 - Atuar como **Desenvolvedor Back-End Java**  
 
 ---
