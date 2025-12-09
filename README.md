@@ -1,6 +1,6 @@
-<!-- Banner ou frase principal -->
+<!-- Banner principal -->
 <h1 align="center">👋 Olá, eu sou o Eduardo Pech</h1>
-<h3 align="center">Desenvolvedor Backend Java | Flutter | Node.js | APIs REST | MySQL & SQL</h3>
+<h3 align="center">Desenvolvedor Backend Java | Node.js | Flutter | APIs REST | SQL</h3>
 
 <br/>
 
@@ -15,7 +15,7 @@
 Sou um desenvolvedor focado em **Back-End**, apaixonado por criar sistemas robustos, eficientes e bem estruturados.  
 Atualmente estudo e trabalho com **Java + Spring**, Node.js, Flutter e bancos de dados relacionais.
 
-Com experiência também em **suporte técnico**, consigo entender problemas reais do usuário e transformá-los em soluções práticas.
+Tenho experiência com **suporte técnico**, o que me ajuda a transformar problemas reais em soluções simples e eficazes.
 
 ---
 
@@ -48,23 +48,24 @@ Com experiência também em **suporte técnico**, consigo entender problemas rea
 ---
 
 # ⭐ **Projetos em Destaque (Java)**  
-> *Projetos selecionados com foco no seu crescimento como desenvolvedor Backend Java*
+> *Projetos selecionados que demonstram sua evolução como desenvolvedor Java Backend.*
 
 ---
 
 ### 🔹 **Login Java – Sistema de autenticação**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/POO-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 🔗 **Repositório:**  
 https://github.com/eduardoapech/Login-java  
 
 **Descrição:**  
-Sistema básico de login com validação, encapsulamento e boas práticas de Programação Orientada a Objetos.
+Sistema básico de login com validação, encapsulamento e boas práticas de POO.
 
 ---
 
 ### 🔹 **Calculadora Java – Operações matemáticas**
-<img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 🔗 **Repositório:**  
 https://github.com/eduardoapech/calculadora-java  
 
@@ -74,18 +75,19 @@ Calculadora completa com tratamento de erros e modularização.
 ---
 
 ### 🔹 **Sistema Java de Cadastro – CRUD completo**
-<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
 🔗 **Repositório:**  
 https://github.com/eduardoapech/java-backend-cadastro  
 
 **Descrição:**  
-CRUD estruturado seguindo boas práticas de API REST.  
-Inclui: DTOs, serviços, controllers e organização por camadas.
+CRUD estruturado seguindo boas práticas de API REST com DTOs, serviços e controllers.
 
 ---
 
 ### 🔹 **App Passagem de Ônibus – Java + Lógica de Negócio**
-<img src="https://img.shields.io/badge/Java-DB4437?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-DB4437?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 🔗 **Repositório:**  
 https://github.com/eduardoapech/app-passagem-onibus  
 
@@ -95,20 +97,24 @@ Simulação de compra de passagens com regras de negócio e cálculos automátic
 ---
 
 ### 🔹 **API REST – CRUD Java**
-<img src="https://img.shields.io/badge/REST_API-1F80C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Java-OpenJDK-blue?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/REST_API-1F80C0?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Java-OpenJDK-blue?style=for-the-badge"/>
+
 🔗 **Repositório:**  
 https://github.com/eduardoapech/ApiRest_CRUD  
 
 **Descrição:**  
-API REST simples, ideal para estudos de rotas, métodos HTTP, entidades, serviços e controllers.
+API REST simples, ideal para estudos de rotas, métodos HTTP e camadas da aplicação.
 
 ---
 
 ## 📈 Minhas estatísticas no GitHub
 
+> **Gráficos corrigidos usando o mirror estável (não cai).**
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoapech&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardoapech&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -123,10 +129,10 @@ API REST simples, ideal para estudos de rotas, métodos HTTP, entidades, serviç
 ---
 
 ## 🧭 Objetivos 2026
-- Especializar em **Java + Spring Boot**  
+- Aperfeiçoar **Java + Spring Boot**  
 - Criar sistemas completos com **Clean Architecture**  
-- Produzir projetos mais robustos em React  
-- Entrar como **Desenvolvedor Back-End Java**  
+- Ampliar domínio de React  
+- Atuar como **Desenvolvedor Back-End Java**  
 
 ---
 
