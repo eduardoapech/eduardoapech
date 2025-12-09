@@ -60,7 +60,10 @@ Atualmente, estou focado em **Back-End Java**, arquiteturas limpas e desenvolvim
 ### 🔹 **🐾 App Pet – App e API completa**
 API em Node.js + app em Expo/React Native para cadastro de animais, eventos, histórico e organização por tutor.
 
-🔗 *Repositório:* (adicione aqui o link)  
+🔗 **Repositório:**  
+API → https://github.com/eduardoapech/api-animais  
+App → https://github.com/eduardoapech/app_pet  
+
 🔧 *Tecnologias:* Node.js, Express, MySQL, React Native, Axios
 
 ---
@@ -68,23 +71,29 @@ API em Node.js + app em Expo/React Native para cadastro de animais, eventos, his
 ### 🔹 **📊 Futsal Scores – Acompanhamento de jogos**
 Aplicativo Flutter consumindo API de jogos em tempo real (BetsAPI).
 
-🔗 *Repositório:* (adicione aqui o link)  
+🔗 **Repositório:**  
+https://github.com/eduardoapech/futsal_scores  
+
 🔧 *Tecnologias:* Flutter, Dio, MobX, API REST
 
 ---
 
 ### 🔹 **🛠 Sistema de Mesas – API completa**
-API em Node + MariaDB para criação, edição, transferência de mesas e grupos.
+API em Node + MariaDB para criação, edição e transferência de mesas e grupos.
 
-🔗 *Repositório:* (adicione aqui o link)  
+🔗 **Repositório:**  
+https://github.com/eduardoapech/api-mesas  
+
 🔧 *Tecnologias:* Node.js, MariaDB, Express, Sequelize
 
 ---
 
 ### 🔹 **💼 Painel Web da Igreja – React + Firebase**
-CRUD de eventos, calendário anual com exportação para PDF e Word.
+CRUD de eventos + exportação para PDF e Word.
 
-🔗 *Repositório:* (adicione aqui o link)  
+🔗 **Repositório:**  
+https://github.com/eduardoapech/painel-web-igreja  
+
 🔧 *Tecnologias:* React, Firebase, jsPDF, docx
 
 ---
