@@ -106,7 +106,6 @@ API REST simples para estudo de rotas, métodos HTTP e camadas da aplicação.
 
 ## 📈 Minhas Estatísticas no GitHub
 
-> Gráficos usando mirror estável (não cai).
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
