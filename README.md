@@ -12,89 +12,95 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e construção de sistemas robustos.  
-Trabalho principalmente com **Java, Node.js, Flutter e Bancos de Dados**, criando soluções completas para web e mobile.  
-Também possuo experiência com **suporte técnico e análise de sistemas**, o que me ajuda a entender as necessidades reais do usuário.
+Sou um desenvolvedor focado em **Back-End**, apaixonado por criar sistemas robustos, eficientes e bem estruturados.  
+Atualmente estudo e trabalho com **Java + Spring**, Node.js, Flutter e bancos de dados relacionais.
 
-Atualmente, estou focado em **Back-End Java**, arquiteturas limpas e desenvolvimento de APIs REST para sistemas modernos.
+Com experiência também em **suporte técnico**, consigo entender problemas reais do usuário e transformá-los em soluções práticas.
 
 ---
 
-## 🧠 Habilidades Técnicas (Tech Stack)
+## 🧠 Tech Stack
 
 ### 🟦 **Back-End**
-- Java • Spring Boot  
+- **Java • Spring Boot**
 - Node.js • Express  
 - C# • ASP.NET Core  
 - REST APIs • Clean Architecture  
 - Autenticação JWT  
-- ORM: Hibernate • Sequelize • TypeORM  
-- Docker (básico)
+- ORM: Hibernate, Sequelize, TypeORM  
 
 ### 🟩 **Front-End & Mobile**
 - Flutter  
 - React  
 - Expo React Native  
-- HTML • CSS • JavaScript  
 
 ### 🟨 **Banco de Dados**
-- MySQL  
-- MariaDB  
-- PostgreSQL  
-- SQLite  
+- MySQL • MariaDB • PostgreSQL • SQLite  
 - Firebase Firestore  
 
-### 🟧 **Ferramentas & DevOps**
+### 🛠️ **Ferramentas**
 - Git & GitHub  
-- Postman  
-- Insomnia  
-- DBeaver  
+- Postman • Insomnia  
 - Swagger  
-- MobX (Flutter)  
-- Dio (Flutter)
+- MobX • Dio  
+- DBeaver  
 
 ---
 
-## ⭐ Projetos Principais
-
-### 🔹 **🐾 App Pet – App e API completa**
-API em Node.js + app em Expo/React Native para cadastro de animais, eventos, histórico e organização por tutor.
-
-🔗 **Repositório:**  
-API → https://github.com/eduardoapech/api-animais  
-App → https://github.com/eduardoapech/app_pet  
-
-🔧 *Tecnologias:* Node.js, Express, MySQL, React Native, Axios
+# ⭐ **Projetos em Destaque (Java)**  
+> *Projetos selecionados com foco no seu crescimento como desenvolvedor Backend Java*
 
 ---
 
-### 🔹 **📊 Futsal Scores – Acompanhamento de jogos**
-Aplicativo Flutter consumindo API de jogos em tempo real (BetsAPI).
+### 🔹 **Login Java – Sistema de autenticação**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/POO-6C5CE7?style=for-the-badge"/>
 
 🔗 **Repositório:**  
-https://github.com/eduardoapech/futsal_scores  
+https://github.com/eduardoapech/Login-java  
 
-🔧 *Tecnologias:* Flutter, Dio, MobX, API REST
+**Descrição:**  
+Sistema básico de login com validação, encapsulamento e boas práticas de Programação Orientada a Objetos.
 
 ---
 
-### 🔹 **🛠 Sistema de Mesas – API completa**
-API em Node + MariaDB para criação, edição e transferência de mesas e grupos.
-
+### 🔹 **Calculadora Java – Operações matemáticas**
+<img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white"/>  
 🔗 **Repositório:**  
-https://github.com/eduardoapech/api-mesas  
+https://github.com/eduardoapech/calculadora-java  
 
-🔧 *Tecnologias:* Node.js, MariaDB, Express, Sequelize
+**Descrição:**  
+Calculadora completa com tratamento de erros e modularização.
 
 ---
 
-### 🔹 **💼 Painel Web da Igreja – React + Firebase**
-CRUD de eventos + exportação para PDF e Word.
-
+### 🔹 **Sistema Java de Cadastro – CRUD completo**
+<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  
 🔗 **Repositório:**  
-https://github.com/eduardoapech/painel-web-igreja  
+https://github.com/eduardoapech/java-backend-cadastro  
 
-🔧 *Tecnologias:* React, Firebase, jsPDF, docx
+**Descrição:**  
+CRUD estruturado seguindo boas práticas de API REST.  
+Inclui: DTOs, serviços, controllers e organização por camadas.
+
+---
+
+### 🔹 **App Passagem de Ônibus – Java + Lógica de Negócio**
+<img src="https://img.shields.io/badge/Java-DB4437?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+🔗 **Repositório:**  
+https://github.com/eduardoapech/app-passagem-onibus  
+
+**Descrição:**  
+Simulação de compra de passagens com regras de negócio e cálculos automáticos.
+
+---
+
+### 🔹 **API REST – CRUD Java**
+<img src="https://img.shields.io/badge/REST_API-1F80C0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Java-OpenJDK-blue?style=for-the-badge"/>  
+🔗 **Repositório:**  
+https://github.com/eduardoapech/ApiRest_CRUD  
+
+**Descrição:**  
+API REST simples, ideal para estudos de rotas, métodos HTTP, entidades, serviços e controllers.
 
 ---
 
@@ -109,20 +115,18 @@ https://github.com/eduardoapech/painel-web-igreja
 
 ## 📚 Certificações & Estudos
 - Java Developer (em andamento)  
-- APIs REST com Node.js e Express  
-- Firebase Cloud Firestore Essentials  
+- APIs REST com Node.js  
 - Flutter & Dart Essencial  
 - SQL Avançado  
 - Git & GitHub Professional  
 
 ---
 
-## 🧭 Objetivos pra 2026
-- Aprofundar em **Java + Spring Boot**  
-- Criar mais sistemas completos com **Clean Architecture**  
-- Desenvolver apps Flutter mais robustos com MobX  
-- Melhorar ainda mais meu perfil profissional no LinkedIn e GitHub  
-- Entrar como **Desenvolvedor Back-End** em empresa sólida  
+## 🧭 Objetivos 2026
+- Especializar em **Java + Spring Boot**  
+- Criar sistemas completos com **Clean Architecture**  
+- Produzir projetos mais robustos em Flutter  
+- Entrar como **Desenvolvedor Back-End Java**  
 
 ---
 
@@ -134,4 +138,4 @@ https://github.com/eduardoapech/painel-web-igreja
 
 ---
 
-<h3 align="center">🚀 Obrigado por visitar meu perfil! Sempre aberto para novas oportunidades e projetos.</h3>
+<h3 align="center">🚀 Obrigado por visitar meu perfil!</h3>
