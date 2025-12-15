@@ -12,10 +12,15 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado em **Back-End**, apaixonado por criar sistemas robustos, organizados e performáticos.  
-Atualmente estudo e trabalho com **Java + Spring Boot**, Node.js, Flutter e bancos de dados relacionais.
+Sou Desenvolvedor Full Stack Júnior, com forte atuação em Frontend e Mobile, utilizando React JS e React Native no desenvolvimento de aplicações web e móveis.
 
-Tenho experiência com **suporte técnico**, o que me ajuda a transformar problemas reais em soluções eficientes e escaláveis.
+Tenho experiência prática na criação de interfaces modernas, integração com APIs REST, consumo de serviços backend e participação em todo o ciclo de desenvolvimento de aplicações.
+
+Já atuei em projetos mobile com foco em estabilidade, desempenho e experiência do usuário, além de trabalhar em ambientes que exigem atenção à qualidade, segurança e boas práticas.
+
+Minha base em Backend (Java, Spring Boot, Node.js e bancos de dados SQL) me permite compreender a aplicação como um todo, facilitando integrações, comunicação entre camadas e resolução de problemas.
+
+Tenho experiência com suporte técnico, o que me ajuda a transformar problemas reais em soluções eficientes e escaláveis.
 
 ---
 
