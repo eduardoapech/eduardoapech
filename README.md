@@ -1,147 +1,140 @@
-<!-- Banner principal -->
-<h1 align="center">👋 Olá, eu sou o Eduardo Pech</h1>
-<h3 align="center">Desenvolvedor Full Stack | Java • Node.js • Flutter • React Native • React.js • APIs REST • SQL</h3>
+# 👋 Olá, eu sou o Eduardo Pech
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardoapech&label=Visualizações+no+Perfil&color=blueviolet&style=for-the-badge" />
-</p>
+**Desenvolvedor Full Stack | Frontend (React.js / React Native) • Backend Java (Spring Boot)**
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack Júnior, com forte atuação em Frontend e Mobile, utilizando React JS e React Native no desenvolvimento de aplicações web e móveis.
+Sou Desenvolvedor Full Stack, com forte atuação em **Frontend e Mobile**, utilizando **React.js** e **React Native** no desenvolvimento de aplicações web e móveis.
 
-Tenho experiência prática na criação de interfaces modernas, integração com APIs REST, consumo de serviços backend e participação em todo o ciclo de desenvolvimento de aplicações.
+Possuo experiência prática na criação de **interfaces modernas**, integração e consumo de **APIs REST**, além de participação em todo o ciclo de desenvolvimento de aplicações.
 
-Já atuei em projetos mobile com foco em estabilidade, desempenho e experiência do usuário, além de trabalhar em ambientes que exigem atenção à qualidade, segurança e boas práticas.
+Atuei em projetos mobile com foco em **estabilidade**, **desempenho** e **experiência do usuário**, sempre seguindo boas práticas de qualidade, segurança e organização de código.
 
-Minha base em Backend (Java, Spring Boot, Node.js e bancos de dados SQL) me permite compreender a aplicação como um todo, facilitando integrações, comunicação entre camadas e resolução de problemas.
+Tenho base em **Backend com Java e Spring Boot**, além de contato com **Node.js** e **bancos de dados SQL**, o que me permite compreender a aplicação como um todo, facilitar integrações entre camadas e atuar de forma eficiente na resolução de problemas.
 
-Tenho experiência com suporte técnico, o que me ajuda a transformar problemas reais em soluções eficientes e escaláveis.
+Também possuo experiência com **suporte técnico**, o que contribui para uma visão prática de problemas reais e desenvolvimento de soluções mais eficazes.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🟦 **Back-End**
-- **Java + Spring Boot**
-- Node.js • Express  
-- C# • ASP.NET Core  
-- REST APIs • Clean Architecture  
-- Autenticação JWT  
-- ORMs: Hibernate • Sequelize • TypeORM  
+### 🟦 Frontend & Mobile
 
-### 🟩 **Front-End & Mobile**
-- Flutter  
-- React  
-- Expo React Native  
+* React.js
+* React Native (Expo)
+* Flutter
 
-### 🟨 **Banco de Dados**
-- MySQL • MariaDB • PostgreSQL • SQLite  
-- Firebase Firestore  
+### 🟩 Backend
 
-### 🛠️ **Ferramentas e Utilitários**
-- Git & GitHub  
-- Postman • Insomnia  
-- Swagger  
-- MobX • Dio  
-- DBeaver  
+* Java
+* Spring Boot
+* Node.js
+* APIs REST
+* Autenticação JWT
+* Clean Architecture
 
----
+### 🟨 Banco de Dados
 
-# ⭐ Projetos em Destaque (Java)
+* PostgreSQL
+* MySQL
+* MariaDB
+* SQLite
+* Firebase Firestore
 
-Projetos selecionados que demonstram sua evolução como desenvolvedor Backend.
+### 🛠️ Ferramentas & Utilitários
 
----
-
-### 🔹 **Login Java – Sistema de autenticação**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-🔗 **Repositório:** https://github.com/eduardoapech/Login-java  
-
-**Descrição:**  
-Sistema básico de login com validação, encapsulamento e boas práticas de POO.
+* Git & GitHub
+* Postman • Insomnia
+* Swagger
+* DBeaver
+* MobX • Dio
 
 ---
 
-### 🔹 **Calculadora Java – Operações matemáticas**
-<img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+## ⭐ Projetos em Destaque
 
-🔗 **Repositório:** https://github.com/eduardoapech/calculadora-java  
-
-**Descrição:**  
-Calculadora completa com tratamento de erros, modularização e funções matemáticas.
+Projetos selecionados que demonstram minha atuação em **Frontend, Mobile e Backend**, com foco em boas práticas, organização e regras de negócio.
 
 ---
 
-### 🔹 **Sistema Java de Cadastro – CRUD completo**
-<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+## 🟦 Projetos Frontend / Mobile (React)
 
-🔗 **Repositório:** https://github.com/eduardoapech/java-backend-cadastro  
+### 🔹 App Passagem de Ônibus – React + TypeScript
 
-**Descrição:**  
-CRUD seguindo boas práticas de API REST com DTOs, services e controllers.
+🔗 Repositório: [https://github.com/eduardoapech/app-passagem-onibus](https://github.com/eduardoapech/app-passagem-onibus)
 
----
-
-### 🔹 **App Passagem de Ônibus – Regras de Negócio**
-<img src="https://img.shields.io/badge/Java-DB4437?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-🔗 **Repositório:** https://github.com/eduardoapech/app-passagem-onibus  
-
-**Descrição:**  
-Simulação de compra de passagens com lógica de negócio e cálculos automáticos.
+**Descrição:**
+Aplicação desenvolvida em **React com TypeScript**, simulando a compra de passagens de ônibus, com regras de negócio, cálculos automáticos e foco em organização de código e experiência do usuário.
 
 ---
 
-### 🔹 **API REST – CRUD Java**
-<img src="https://img.shields.io/badge/REST_API-1F80C0?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Java-OpenJDK-blue?style=for-the-badge"/>
+### 🔹 Landing Page – Ozonioterapia
 
-🔗 **Repositório:** https://github.com/eduardoapech/ApiRest_CRUD  
+🔗 Repositório: [https://github.com/eduardoapech/lading-page-ozonioterapia](https://github.com/eduardoapech/lading-page-ozonioterapia)
 
-**Descrição:**  
-API REST simples para estudo de rotas, métodos HTTP e camadas da aplicação.
+**Descrição:**
+Landing page desenvolvida com **TypeScript e JavaScript**, focada em layout responsivo, clareza visual e boas práticas de desenvolvimento frontend.
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub
+## 🟩 Projetos Backend Java
 
+Projetos selecionados que demonstram minha evolução no desenvolvimento backend com Java e boas práticas.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=eduardoapech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=eduardoapech&layout=compact&theme=tokyonight" />
-</p>
+### 🔹 Calculadora – Java
 
----
+🔗 Repositório: [https://github.com/eduardoapech/calculadora-java](https://github.com/eduardoapech/calculadora-java)
 
-## 📚 Certificações & Estudos
-- Java Developer (em andamento)  
-- APIs REST com Node.js  
-- Flutter & Dart Essencial  
-- SQL Avançado  
-- Git & GitHub Professional  
+**Descrição:**
+Calculadora com operações matemáticas, modularização do código e tratamento de erros.
 
 ---
 
-## 🧭 Objetivos 2026
-- Aprimorar **Java + Spring Boot**  
-- Criar sistemas completos com **Clean Architecture**  
-- Expandir domínio de React  
-- Atuar como **Desenvolvedor Back-End Java**  
+### 🔹 Sistema de Cadastro – Java (CRUD)
+
+🔗 Repositório: [https://github.com/eduardoapech/java-backend-cadastro](https://github.com/eduardoapech/java-backend-cadastro)
+
+**Descrição:**
+API RESTful com CRUD completo, seguindo boas práticas com DTOs, Services e Controllers.
+
+---
+
+### 🔹 API REST – Java
+
+🔗 Repositório: [https://github.com/eduardoapech/ApiRest_CRUD](https://github.com/eduardoapech/ApiRest_CRUD)
+
+**Descrição:**
+API REST para estudo de rotas, métodos HTTP e organização em camadas.
+
+---
+
+## 📚 Estudos & Certificações
+
+* Java Developer (em andamento)
+* APIs REST com Node.js
+* Flutter & Dart Essencial
+* SQL Avançado
+* Git & GitHub Professional
+
+---
+
+## 🧭 Objetivos Profissionais
+
+* Aprimorar conhecimentos em **Java + Spring Boot**
+* Desenvolver sistemas completos seguindo **Clean Architecture**
+* Evoluir continuamente em **React.js e React Native**
+* Atuar como **Desenvolvedor Backend Java** ou **Desenvolvedor Full Stack**
 
 ---
 
 ## 📬 Contato
 
-📧 **E-mail:** eduardo.augusto.pech97@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/eduardoapech  
-🐙 **GitHub:** https://github.com/eduardoapech  
+📧 **E-mail:** [eduardo.augusto.pech97@gmail.com](mailto:eduardo.augusto.pech97@gmail.com)
+🔗 **LinkedIn:** [https://linkedin.com/in/eduardoapech](https://linkedin.com/in/eduardoapech)
+🐙 **GitHub:** [https://github.com/eduardoapech](https://github.com/eduardoapech)
 
 ---
 
-<h3 align="center">🚀 Obrigado por visitar meu perfil!</h3>
+⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.*
