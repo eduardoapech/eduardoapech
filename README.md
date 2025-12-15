@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <h1 align="center">👋 Olá, eu sou o Eduardo Pech</h1>
-<h3 align="center">Desenvolvedor Backend | Java • Node.js • Flutter • APIs REST • SQL</h3>
+<h3 align="center">Desenvolvedor Full Stack | Java • Node.js • Flutter • React Native • React.js • APIs REST • SQL</h3>
 
 <br/>
 
